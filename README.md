@@ -1,6 +1,6 @@
 # Deep-Learning
 
-#Overview
+##Overview
 
 The purpose of this analysis was to predict whether applicants will be succesful if funded by Alphabet Soup.
 
@@ -20,5 +20,5 @@ Data Preprocessing:
   -What steps did you take in your attempts to increase model performance?
   Producing larger number of epochs
 
-  #Summary
+##Summary
   Overall accuracy was about 72%, the potential of more layers and units could have resulted in higher level of accuracy.
